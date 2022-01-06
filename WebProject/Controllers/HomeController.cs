@@ -17,6 +17,7 @@ namespace WebProject.Controllers
         {
             ViewBag.Message = "Your application description page....";
             ViewBag.Message = "Your application description page....";
+            ViewBag.Message = "Your application description page....";
 
             return View();
         }
