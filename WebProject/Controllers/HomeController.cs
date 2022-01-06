@@ -13,9 +13,9 @@ namespace WebProject.Controllers
             return View();
         }
 
-        public ActionResult Abou()
+        public ActionResult About()
         {
-            ViewBag.Message = "Your application description page....";
+            ViewBag.Message = "Your application description parfffge....";
             ViewBag.Message = "Your application description page....";
             ViewBag.Message = "Your application description page....";
 
